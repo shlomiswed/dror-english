@@ -1,0 +1,18 @@
+Animal sounds from Wikimedia Commons (https://commons.wikimedia.org).
+Changes made: trimmed to the first few seconds, volume normalized, converted to mono WAV
+(stored in sounds.js). The original files are kept in tools/sounds-src/.
+The modified versions are shared under the same license as each original.
+
+dog.ogg      "Barking of a dog.ogg" by Amada44 - CC BY-SA 3.0
+cat.ogg      "Meow of a pleading cat.oga" by Heismark - Public domain
+cow.ogg      "Single Cow Moo.ogg" by MichaeltheFox8621 - CC BY-SA 4.0
+lion.ogg     "Lion raring-sound1TamilNadu178.ogg" by த*உழவன் - Public domain
+elephant.ogg "Elephant voice - trumpeting.ogg" by தகவலுழவன் - CC0
+fish.ogg     "Bubble 01 nevit.ogg" by Nevit Dilmen - CC BY-SA 3.0
+bird.ogg     "House Sparrows chirping.ogg" by QWerk - CC BY-SA 3.0
+frog.ogg     "Single Frog Croak.oga" by MichaeltheFox8621 - CC BY-SA 4.0
+monkey.ogg   "Pant-hoot call made by a male chimpanzee.ogg" by Pawel Fedurek et al. - CC BY 4.0
+duck.ogg     "Anas platyrhynchos - Mallard - XC62258.ogg" by Jonathon Jongsma - CC BY-SA 3.0
+
+Voice recordings (audio/) were generated with Microsoft neural text-to-speech voices
+(he-IL-HilaNeural, en-US-JennyNeural) via the edge-tts tool, for personal use.
